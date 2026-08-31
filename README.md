@@ -1,4 +1,4 @@
-# Retail-Sales-Analytics
+# retail-sales-analytics
 
 # 🧸 Maven Toys: Retail Sales & Inventory Analysis
 
