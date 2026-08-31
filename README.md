@@ -685,9 +685,3 @@ The completed analysis will provide visibility into:
 Data Analyst | Power BI | Excel | SQL | Business Intelligence
 
 ---
-
-## 📌 Project Status
-
-🚧 **In Progress**
-
-The dashboard, DAX measures, business insights, and recommendations are currently being developed.
