@@ -340,39 +340,6 @@ DIVIDE(
 
 ---
 
-## 🛒 Transaction Metrics
-
-### Average Transaction Value
-
-```DAX
-Average Transaction Value =
-DIVIDE(
-    [Total Revenue],
-    [Total Sales Transactions]
-)
-```
-
-### Units per Transaction
-
-```DAX
-Units per Transaction =
-DIVIDE(
-    [Total Units Sold],
-    [Total Sales Transactions]
-)
-```
-
-### Average Selling Price
-
-```DAX
-Average Selling Price =
-DIVIDE(
-    [Total Revenue],
-    [Total Units Sold]
-)
-```
-
----
 
 ## 📦 Inventory
 
@@ -460,8 +427,6 @@ The inventory value represents the estimated cost value of the current stock hel
 | **Cost**                      | Units Sold × Product Cost    |
 | **Profit**                    | Revenue − Cost               |
 | **Profit Margin**             | Profit ÷ Revenue             |
-| **Average Transaction Value** | Revenue ÷ Transactions       |
-| **Units per Transaction**     | Units Sold ÷ Transactions    |
 | **Inventory Value**           | Stock on Hand × Product Cost |
 
 ---
