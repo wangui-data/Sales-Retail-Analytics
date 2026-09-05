@@ -118,7 +118,7 @@ Are high sales translating into profitable performance?
 
 # 🛠 Tools Used
 
-| Tool            | Purpose                                             |
+| Tool            | Purpose                                            |
 | --------------- | --------------------------------------------------- |
 | **Power BI**    | Data modeling, visualization, dashboard development |
 | **Power Query** | Data cleaning and transformation                    |
