@@ -201,7 +201,7 @@ A dedicated date dimension used for time-based analysis.
 
 # 📖 Data Model
 
-The Power BI model uses a **star-schema-inspired design with two fact tables**.
+The Power BI model uses a **star-schema-inspired design with two fact tables.**
 
 ### Fact Tables
 
